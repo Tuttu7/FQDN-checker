@@ -4,7 +4,7 @@
 Operators | Detail
 ----------| ------
 ?    |   The preceding item is optional and matched at most once.
-*    |   The preceding item will be matched zero or more times.
+'*"    |   The preceding item will be matched zero or more times.
 +    |   The preceding item will be matched one or more times.
 .    |   Dot will match any character
 [ ]  |   Will match a range of characters.
