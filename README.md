@@ -2,7 +2,7 @@
 
 
 Operators | Detail
----------- | ------
+----------| ------
 
 ?    |   The preceding item is optional and matched at most once.
 *    |   The preceding item will be matched zero or more times.
